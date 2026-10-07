@@ -4,14 +4,14 @@
 	</head>
 	<body>
 <?php
-$edad = 10;
+$edad = 88;
 if ($edad <= 18)
     {
-        echo "eres mayor";
+        echo "eres menor";
     }
 else
     {
-        echo "eres menor";
+        echo "eres mayor";
     }
 ?>
 	</body>
